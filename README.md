@@ -51,7 +51,7 @@ programa-arbol/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/programa-arbol.git
+   git clone https://github.com/Cassiuz/programa-arbol.git
    cd programa-arbol
    ```
 
