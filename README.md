@@ -60,7 +60,7 @@ programa-arbol/
    python main.py
    ```
 
-## 🤓 Conceptos Implementados
+## 📖 Conceptos Implementados
 
 1. **Nodo del Árbol**: Estructura básica que contiene un valor y referencias a los hijos izquierdo y derecho.
 
